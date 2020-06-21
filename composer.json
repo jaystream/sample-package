@@ -1,5 +1,5 @@
 {
-	"name" : "eXWeb/sample-package",
+	"name" : "exweb/sample-package",
     "type": "library",
     "description": "Your package description goes here",
     "keywords": ["composer","sample","package"],
