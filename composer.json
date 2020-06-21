@@ -1,0 +1,25 @@
+{
+	"name" : "eXWeb/sample-package",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["composer","sample","package"],
+    "homepage": "http://extremewebevolution.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay-r Simpron",
+            "email": "ssj.simpron@gmail.com",
+            "homepage": "https://www.facebook.com/jaysimpron/",
+            "role": "Developer"
+        }
+    ],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jaystream/sample-package"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
